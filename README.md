@@ -16,3 +16,15 @@
 * 9 Arrays
 * 10 Operador Array Spread
 * 11 Exercício Prático ( Variáveis)
+
+# Módulo 2 - Condicionais e Loops
+
+* 1 Condicional IF
+* 2 Condicional Ternário
+* 3 Condicional NULL CAO 7.4
+* 4 Condicional Switch
+* 5 Loop while
+* 6 Loop For
+* 7 Loop Foreach
+* 8 Exercício Prático 1
+* 9 Exercício Prático 2
